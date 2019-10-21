@@ -4,3 +4,4 @@ An Exoplanet (Extrasolar planet) is a planet that exists outside our solar syste
 If we study and watch these stars over time there may be a regular dimming of their flux (The light intensity). That’s enough evidence to say that there is an orbiting body near the star. Further studies of the candidate system capture light at a different wavelength, could solidify the belief or confirm the existence of these orbiting bodies.
 
 created machine learning model capable of classifying candidate exoplanets from the raw dataset(the Kepler Objects of Interest table).
+https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html
